@@ -1,4 +1,16 @@
 {
+    "name": "konstantin/hexlet-slim-example",
+    "autoload": {
+        "psr-4": {
+            "Konstantin\\HexletSlimExample\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "konst.kazan@gmail.com"
+        }
+    ],
     "require": {
         "slim/slim": "^4.13",
         "slim/psr7": "^1.6",
