@@ -1,0 +1,1 @@
+{"name":"Admin","email":"konst.kazan@gmail.com","password":"3221","passwordConfirmation":"321","city":"3"}
